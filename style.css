@@ -1,0 +1,51 @@
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    background: white;
+    margin: 0;
+    padding: 0;
+    
+}
+.date_container p{
+    font-size: 20px;
+    color: rgb(84, 90, 90);
+    margin-left: 280px;
+    margin-bottom: 10px;
+   
+}
+.post_title{
+    display: flex;
+    padding: 10px;
+      
+}
+.page_header{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.comment_container {
+    padding: 1px;
+    font-size: 25px;
+}
+.comment_container span {
+    color: rgb(27, 84, 240);
+    font-weight: bold;
+    cursor: pointer;
+}
+.img_container img{
+    width: 100%;
+    
+}
+.container{
+    width: 800px;
+margin: auto;
+}
+.title_container h2{
+    width: 100%;
+    font-size: 22px;
+    
+}
